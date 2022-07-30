@@ -4,7 +4,6 @@
 - [Screenshot](#screenshot)
 - [Live Site](#Live-Site)
 - [Built with](#built-with)
-- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -19,7 +18,7 @@
 
 ### Live Site
 
-- Live Site: [View](https://saffari-dev.github.io/Login-Form-v2/)
+- Live Site: [View](https://saffari-dev.github.io/Card-v2/)
 
 ### Built with
 
